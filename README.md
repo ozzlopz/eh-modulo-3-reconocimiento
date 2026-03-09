@@ -86,7 +86,3 @@ Durante la actividad se utilizaron las siguientes herramientas:
 - **Maltego Community Edition**
 
 ---
-
-## Autor
-
-Carlos López
